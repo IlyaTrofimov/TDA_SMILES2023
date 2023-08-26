@@ -1,4 +1,4 @@
-# TDA_Sirius2022
-Topological Data Analysis Tutorial, Sirius 2022
+# TDA_SMILES2022
+Topological Data Analysis Tutorial, SMILES 2022
 
-https://colab.research.google.com/github/IlyaTrofimov/TDA_Sirius2022/blob/master/TDA_Tutorial.ipynb
+https://colab.research.google.com/github/IlyaTrofimov/TDA_SMILES2023/blob/master/TDA_Tutorial.ipynb
